@@ -42,7 +42,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/079a8449-2c31-420a-af54-c27395b552b5)
+![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/96bc5621-d0cb-49e2-bc09-7c64ee5450e2)
 
 </details>
 
