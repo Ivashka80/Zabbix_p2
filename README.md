@@ -48,8 +48,20 @@
 
 3. Создайте Item который будет собирать информацию об загрузке CPU в процентах
 
+<details>
+
+![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/2a845dac-d0c0-405c-9459-a63b7c5a5722)
+
+</details>
 
 4. Создайте Item который будет собирать информацию об загрузке RAM в процентах
+
+<details>
+
+![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/47b7492f-0dbb-497e-bf62-7f0df17a4092)
+
+</details>
+
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
