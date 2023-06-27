@@ -149,7 +149,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/509416c7-b5fe-4052-97d2-81e8f345e47b)
+![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/8573551a-7f8d-4826-97a2-81e187ab69bf)
 
 </details>
 
