@@ -122,7 +122,10 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/67abf897-3854-44c6-8831-d4fdd8c9a61c)
+![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/8337e9f8-39e9-4d8b-a389-bbd5943f932d)
+
+![image](https://github.com/Ivashka80/Zabbix_p2/assets/121082757/a7692ef9-2887-44b3-819b-0deb059fc4dc)
+
 
 *Zabbix не дает установить шаблон Linux by Zabbix Agent одновременно с новыми заданными шаблонами, т.к. в нем также присутствует item на CPU*
 
